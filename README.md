@@ -1,2 +1,2 @@
-# 3-urlshortener-project
-https://3-urlshortener-graphiiics.glitch.me
+# boilerplate-project-urlshortener
+A boilerplate for a freeCodeCamp project.
